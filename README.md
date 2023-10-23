@@ -15,10 +15,10 @@ Make a project directory and create the following files inside that directory:
 ###How To Use
 
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
-- run project
+
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone git@github.com:Clintonrocha98/basic-info-site.git
 
 # Go into the repository
 $ cd basic-info-site
